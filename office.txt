@@ -1,0 +1,19 @@
+
+office 正版安装
+
+1.office 软件部署工具：https://www.microsoft.com/en-us/download/details.aspx?id=49117
+创建一个office文件夹  部署工具安装到新创建的office文件夹
+
+2.office 版本自定义工具：https://config.office.com/deploymentsettings
+要选择有批量许可证的版本  选择需要的组件后生成一个配置文件取名config.xml   下载配置文件到office文件夹
+
+3.下载命令：
+需要在 cmd 窗口下 cd 进入 office 文件夹
+
+setup /download config.xml
+下载需要一定的时间耐心等待 
+
+安装命令:
+
+setup /configure config.xml
+  
