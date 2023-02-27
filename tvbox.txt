@@ -1,2 +1,3 @@
 https://raw.githubusercontent.com/Pizimike/pizimike.github.io/main/tvbox.json
 https://raw.githubusercontent.com/Pizimike/pizimike.github.io/main/tvbox1.json
+https://raw.githubusercontent.com/Pizimike/pizimike.github.io/main/tvbox2.json
