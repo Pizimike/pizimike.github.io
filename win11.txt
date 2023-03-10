@@ -2,7 +2,7 @@ windows 11专业版激活
 
 cmd窗口
 
-
+slmgr /ipk nrg88-vkk3q-cxvcj-9g2xf-6q84j
 slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
 
 slmgr /skms kms.loli.best
