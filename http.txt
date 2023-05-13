@@ -9,4 +9,8 @@ warp相关
 https://wwka.lanzouo.com/ipUOQ0vo6elc   密码:4xcd
 https://v.xss.sx/pass-wall/warp
 
+register 注册当前设备
 
+update 绑定激活码
+
+generate 生成配置文件
