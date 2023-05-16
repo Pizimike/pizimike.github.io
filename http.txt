@@ -6,15 +6,14 @@ https://miya.teracloud.jp/share/11d1fe2f71863d86
 
 
 warp相关
-https://wwka.lanzouo.com/ipUOQ0vo6elc   密码:4xcd
+https://wwka.lanzouo.com/ipUOQ0vo6elc   密码:4xcd  (安卓应用）
 
-https://wwka.lanzouo.com/iLXTu0w8me2j  密码:hpo1
-
-
-https://v.xss.sx/pass-wall/warp
+https://wwka.lanzouo.com/iLXTu0w8me2j  密码:hpo1   （warp注册应用）
 
 register 注册当前设备
 
 update 绑定激活码
 
 generate 生成配置文件
+
+https://v.xss.sx/pass-wall/warp （warp教程）
