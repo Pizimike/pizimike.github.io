@@ -1,13 +1,13 @@
 tvbox地址
 
+(首先）
+https://raw.liucn.cc/box/m.json　
+https://raw.iqiq.io/liu673cn/box/main/m.json  
 
-http://miaotvs.cn/meow     (首先）
+（备用)
+https://raw.liucn.cc/box/m.json  
 
-
-https://raw.liucn.cc/box/m.json  （备用)
-
-https://raw.liucn.cc/box/xiaopingguo.json（小苹果）
-
+https://raw.githubusercontent.com/liu673cn/box/main/xiaopingguo.json
 
 
 
