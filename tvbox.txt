@@ -1,19 +1,11 @@
 tvbox地址
 
 (首先）
-http://yydsys.top/duo
-http://饭太硬.top/tv
-http://xhww.fun:63/小米/DEMO.json
-https://tvbox.cainisi.cf
-http://home.jundie.top:81/top98.json
-https://agit.ai/relax/adcc/raw/branch/master/tvbox.json
+
 https://raw.liucn.cc/box/m.json　
-https://raw.iqiq.io/liu673cn/box/main/m.json  
 
-（备用)
-https://raw.liucn.cc/box/m.json  
+http://miaotvs.cn/meow/
 
-https://raw.githubusercontent.com/liu673cn/box/main/xiaopingguo.json
 
 
 
