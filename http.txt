@@ -21,3 +21,15 @@ https://v.xss.sx/pass-wall/warp （warp教程）
 基于 WGCF 生成网：https://replit.com/@misaka-blog/wgcf-profile-generator
 基于 WARP-GO 生成网：https://replit.com/@misaka-blog/warpgo-profile-generator
 WARP+ 刷流量网页：https://replit.com/@aliilapro/warp
+
+
+正版idm激活
+在 Windows 10/11 上，右键单击 Windows 开始菜单，然后选择 PowerShell 或终端。
+
+复制粘贴以下代码并按 Enter：
+
+iex(irm is.gd/idm_reset)
+或者
+
+iwr -useb https://raw.githubusercontent.com/lstprjct/IDM-Activation-Script/main/IAS.ps1 | iex
+您将看到激活选项，然后按照屏幕上的说明进行操作。
