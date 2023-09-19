@@ -9,3 +9,10 @@ slmgr /skms kms.loli.best
 
 slmgr /ato
 
+win10 tiny 激活
+
+slmgr /ipk M7XTQ-FN8P6-TTKYV-9D4CC-J462D
+
+slmgr /skms kms.06k.org
+
+slmgr -ato
