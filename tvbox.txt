@@ -2,6 +2,8 @@ tvbox地址
 
 (首先）
 
+http://meowtv.cn/tv
+
 http://www.weetai.cn/mtvzb.txt
 
 http://epg.112114.xyz/?ch={name}&date={date}
