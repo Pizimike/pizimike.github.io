@@ -16,8 +16,17 @@ http://yydsys.top/duo
 
 
 
+iptv地址
+
+https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u
+
+https://m3u.ibert.me/j_home.m3u
+
+https://m3u.ibert.me/j_iptv.m3u
 
 
+https://m3u.ibert.me/txt/j_home.txt
 
+https://m3u.ibert.me/txt/j_iptv.txt
 
 
