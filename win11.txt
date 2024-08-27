@@ -16,3 +16,11 @@ slmgr /ipk M7XTQ-FN8P6-TTKYV-9D4CC-J462D
 slmgr /skms kms.06k.org
 
 slmgr -ato
+
+
+
+
+激活命令：
+irm https://massgrave.dev/get | iex
+Win11 搜索 powershell 以管理员身份运行
+Win10 及以下版本操作系统 搜索 cmd 以管理员身份运行
