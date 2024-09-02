@@ -37,3 +37,7 @@ iex(irm is.gd/idm_reset)
 
 iwr -useb https://raw.githubusercontent.com/lstprjct/IDM-Activation-Script/main/IAS.ps1 | iex
 您将看到激活选项，然后按照屏幕上的说明进行操作。
+
+
+
+
