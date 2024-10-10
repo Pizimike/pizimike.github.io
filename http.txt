@@ -1,22 +1,22 @@
 
 
-V2
+V2 安卓
 https://miya.teracloud.jp/share/11d1f6ebed728a04
 
 
-SS
+SS 安卓
 https://miya.teracloud.jp/share/11d193da678ef517
 
 
-tvbox助手
+tvbox助手 安卓
 https://miya.teracloud.jp/share/11d180e22e5daa26
 
-tvbox
+tvbox 安卓
 https://miya.teracloud.jp/share/11d14b57a264c994
 
 
 
-我的电视
+我的电视 安卓
 https://miya.teracloud.jp/share/11d1b76ae4a86253
 
 https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u
@@ -27,11 +27,11 @@ https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/itv.m3u
 
 
 
-CPU温度监控
+CPU温度监控  PC
 https://miya.teracloud.jp/share/11d1117eb7c9fdf8
 
 
-正版idm激活
+正版idm激活  PC
 在 Windows 10/11 上，右键单击 Windows 开始菜单，然后选择 PowerShell 或终端。
 
 复制粘贴以下代码并按 Enter：
