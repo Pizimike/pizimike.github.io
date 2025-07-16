@@ -9,14 +9,16 @@ https://www.xnxx.com/
 https://cn.pornhub.com/
 https://www.xvideos.com/
 
-vless://ef7f252a-3e89-4da4-9efc-589fefe18fbc@172.67.67.113:80?encryption=none&security=none&sni=jppzmike.pzmike.workers.dev&type=ws&host=jppzmike.pzmike.workers.dev&path=%2F%3Fed%3D2048#jppzmike.pzmike.workers.dev
-vless://778d3f0f-ff41-4a2a-b48e-3f251a6a45fb@172.67.67.113:80?encryption=none&security=none&sni=sgpzmike.pzmike.workers.dev&type=ws&host=sgpzmike.pzmike.workers.dev&path=%2F%3Fed%3D2048#sgpzmike.pzmike.workers.dev
-vless://debfdcdf-fd4e-4778-bd59-1b054a21e3a5@172.67.109.107:80?encryption=none&security=none&sni=hkpzmike.pzmike.workers.dev&type=ws&host=hkpzmike.pzmike.workers.dev&path=%2F%3Fed%3D2048#hkpzmike.pzmike.workers.dev
-vless://fea46e2b-cea7-4a0b-acc9-40b5dc42cb04@172.67.67.113:80?encryption=none&security=none&type=ws&host=jichang.pzmike.workers.dev&path=%2F%3Fed%3D2048#jichang
-vless://b5851efe-bd47-48ef-a673-52b67683bf38@162.159.135.143:80?encryption=none&security=none&sni=pizigtp.mzhanbin.workers.dev&fp=randomized&type=ws&host=pizigtp.mzhanbin.workers.dev&path=%2F%3Fed%3D2048#pizigtp.mzhanbin.workers.dev
-vless://691fc282-0478-4587-adaf-9e92ebf6666f@172.67.103.216:80?encryption=none&security=none&sni=yxym.pzmike.workers.dev&fp=randomized&type=ws&host=yxym.pzmike.workers.dev&path=%2F%3Fed%3D2048#yxym.pzmike.workers.dev
-vless://b5851efe-bd47-48ef-a673-52b67683bf38@172.67.103.216:80?encryption=none&security=none&sni=pizigtp.mzhanbin.workers.dev&fp=randomized&type=ws&host=pizigtp.mzhanbin.workers.dev&path=%2F%3Fed%3D2048#pizigtp.mzhanbin.workers.dev
-vless://fea46e2b-cea7-4a0b-acc9-40b5dc42cb04@172.67.103.216:80?encryption=none&security=none&type=ws&host=jichang.pzmike.workers.dev%2F&path=%2F%3Fed%3D2048#shoudong
+vless://ef7f252a-3e89-4da4-9efc-589fefe18fbc@172.67.67.113:80?encryption=none&security=none&sni=jppzmike.pzmike.workers.dev&type=ws&host=jppzmike.pzmike.workers.dev&path=%2F%3Fed%3D2048#jp%E7%A7%BB%E5%8A%A8
+vless://778d3f0f-ff41-4a2a-b48e-3f251a6a45fb@172.67.67.113:80?encryption=none&security=none&sni=sgpzmike.pzmike.workers.dev&type=ws&host=sgpzmike.pzmike.workers.dev&path=%2F%3Fed%3D2048#sg%E7%A7%BB%E5%8A%A8
+vless://debfdcdf-fd4e-4778-bd59-1b054a21e3a5@172.67.67.113:80?encryption=none&security=none&sni=hkpzmike.pzmike.workers.dev&type=ws&host=hkpzmike.pzmike.workers.dev&path=%2F%3Fed%3D2048#hk%E7%A7%BB%E5%8A%A8
+vless://ef7f252a-3e89-4da4-9efc-589fefe18fbc@162.159.236.243:80?encryption=none&security=none&sni=jppzmike.pzmike.workers.dev&type=ws&host=jppzmike.pzmike.workers.dev&path=%2F%3Fed%3D2048#jp%E8%81%94%E9%80%9A
+vless://778d3f0f-ff41-4a2a-b48e-3f251a6a45fb@162.159.236.243:80?encryption=none&security=none&sni=sgpzmike.pzmike.workers.dev&type=ws&host=sgpzmike.pzmike.workers.dev&path=%2F%3Fed%3D2048#sg%E8%81%94%E9%80%9A
+vless://debfdcdf-fd4e-4778-bd59-1b054a21e3a5@162.159.236.243:80?encryption=none&security=none&sni=hkpzmike.pzmike.workers.dev&type=ws&host=hkpzmike.pzmike.workers.dev&path=%2F%3Fed%3D2048#hk%E8%81%94%E9%80%9A
+vless://ef7f252a-3e89-4da4-9efc-589fefe18fbc@104.18.25.236:80?encryption=none&security=none&sni=jppzmike.pzmike.workers.dev&type=ws&host=jppzmike.pzmike.workers.dev&path=%2F%3Fed%3D2048#jp%E7%94%B5%E4%BF%A1
+vless://778d3f0f-ff41-4a2a-b48e-3f251a6a45fb@104.18.25.236:80?encryption=none&security=none&sni=sgpzmike.pzmike.workers.dev&type=ws&host=sgpzmike.pzmike.workers.dev&path=%2F%3Fed%3D2048#sg%E7%94%B5%E4%BF%A1
+vless://debfdcdf-fd4e-4778-bd59-1b054a21e3a5@104.18.25.236:80?encryption=none&security=none&sni=hkpzmike.pzmike.workers.dev&type=ws&host=hkpzmike.pzmike.workers.dev&path=%2F%3Fed%3D2048#hk%E7%94%B5%E4%BF%A1
+
 
 
 
