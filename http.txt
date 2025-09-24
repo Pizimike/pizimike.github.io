@@ -1,7 +1,13 @@
+wifi改卡
 https://post.smzdm.com/p/a5x59d2x/
 
-https://test.pzmike.cloudns.org/
-https://test.pzmike.cloudns.org/api/tvbox?format=json
+IPv6
+https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u
+IPv4
+https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u
+
+
+https://tv.miketv.dpdns.org/api/tvbox?format=json
 
 
 飞牛分享【orionTV.1.3.6.apk】
