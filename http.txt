@@ -1,6 +1,8 @@
 wifi改卡
 https://post.smzdm.com/p/a5x59d2x/
 
+https://raw.githubusercontent.com/Pizimike/pizimike.github.io/refs/heads/main/m1.txt
+
 IPv6
 https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u
 IPv4
